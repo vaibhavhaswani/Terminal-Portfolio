@@ -1,6 +1,4 @@
-<h1 align='center'>Terminal Portfolio</h1>
-
-![Banner](https://svg-banners.vercel.app/api?type=typeWriter&text1=CRT%20Terminal%20Portfolio%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&width=1000&height=150)
+<h1 align='center'>Termolio - 'The Terminal Portfolio'</h1>
 
 
 ## Table of Contents
