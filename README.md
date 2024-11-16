@@ -17,7 +17,7 @@ This is an interactive terminal based concept portfolio website that is inspired
 ## Commands
 
 - `help` - To get a list of commands.
-- `profile` - To get my profile information.
+- `whoami` - To get my profile information.
 - `skills` - To get a list of my skills.
 - `projects` - To get a list of my projects.
 - `contacts` - To get my contact information.

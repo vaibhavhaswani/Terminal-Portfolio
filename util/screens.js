@@ -109,9 +109,9 @@ async function boot() {
 
 async function login() {
 	clear();
-	await type("========================================================================");
-	await type("    Operating System: Portfolio OS | Administrator: Vaibhav Haswani");
-	await type("========================================================================");
+	await type("====================================================================");
+	await type("  Operating System: Portfolio OS | Administrator: Vaibhav Haswani");
+	await type("====================================================================");
 	await type([" ", " "], { lineWait: 150 });
 	await type("> type `help` to check the list of commands available...");
 	return main();
